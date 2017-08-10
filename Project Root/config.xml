@@ -3,7 +3,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.atasagundanay" versionCode = "10" version="1.0.0">
 <!-- versionCode is optional and Android only -->
 
-<name> Atasagundeney </name>
+<name> Semptom Tara </name>
 
 <description> Tarar </description>
 
@@ -33,7 +33,7 @@ value="org.apache.cordova.device.Device"
 
 <preference name="Fullscreen" value="true"/> 
 <preference name="DisallowOverscroll" value="true"/> 
-<preference name="Orientation" value="landscape"/>
+<preference name="Orientation" value="portrait"/>
 <preference name="HideKeyboardFormAccessoryBar" value="false"/>
 <preference name="BackgroundColor" value="0xff0000ff"/>
 
